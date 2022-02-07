@@ -1,5 +1,7 @@
+import groovy.transform.Field
 import jenkins.model.*
 jenkins = Jenkins.instance
+
 
 public class HelloWorld {
 
