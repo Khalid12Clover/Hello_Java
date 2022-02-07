@@ -14,6 +14,6 @@ pipeline {
           sh "ls -ltr"
        }
    }
-   // And next stages if you want to define further...
- } // End of stages
+   
+ } // And next stages if you want to define further... // End of stages
 } // End of pipeline
